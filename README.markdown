@@ -129,4 +129,4 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer :
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails (à créer si nécessaire).
 
 ## Contact
-Pour toute question, contactez-moi via GitHub ou par email à [votre-email@example.com].
+Pour toute question, contactez-moi via GitHub ou par email à omarlachiri112@gmail.com .
